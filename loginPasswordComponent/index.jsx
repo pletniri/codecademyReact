@@ -1,3 +1,4 @@
+// this project was finished at https://www.codecademy.com/
 import React from 'react';
 // import js library for react object
 import ReactDOM from 'react-dom';
